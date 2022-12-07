@@ -1,0 +1,18 @@
+current directory: C:/Users/user/newtest/railsvizzzy/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+C:/Ruby31-x64/bin/ruby.exe -I C:/Ruby31-x64/lib/ruby/3.1.0 -r ./siteconf20221207-18520-1mq5ob.rb extconf.rb
+checking for rb_block_call()... yes
+checking for rb_ary_subseq()... yes
+creating Makefile
+
+current directory: C:/Users/user/newtest/railsvizzzy/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= clean
+
+current directory: C:/Users/user/newtest/railsvizzzy/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\=
+generating cparse-x64-mingw-ucrt.def
+compiling cparse.c
+linking shared-object racc/cparse.so
+
+current directory: C:/Users/user/newtest/railsvizzzy/vendor/bundle/ruby/3.1.0/gems/racc-1.6.1/ext/racc/cparse
+make DESTDIR\= install
+/usr/bin/install -c -m 0755 cparse.so ./.gem.20221207-18520-fmj6ku/racc
